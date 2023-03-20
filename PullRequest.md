@@ -7,3 +7,4 @@ Gustavo Lezama 			https://github.com/kallseit/marienburg_story/pull/3
 John A. Rodriguez Ortiz  https://github.com/scampb38/DrachenburgStorytime/pull/5
 Karston Stegall 	    https://github.com/jbaranie/herrenchiemsee_icebreaker/pull/7	
 Marc Swift				https://github.com/kallseit/marienburg_story/pull/4
+Devin mccarthy https://github.com/jarodr47/charlottenburg_story/pull/9
